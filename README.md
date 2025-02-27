@@ -61,3 +61,13 @@ Data was extracted from the Hospital database using SQL. It was then loaded into
   
 # Data Used
 - <a href="https://github.com/thekelvini/Financial-Performance/blob/main/2024_finance.xlsx">Dataset</a>
+
+# 9.	DATA ANALYSIS 
+## - Exploratory Data Analysis (EDA)
+Before we start digging into all the details, it’s crucial to do exploratory data analysis (EDA) on the Bliss Shopping Mall dataset. EDA means we’ll take a good look at the data to understand its main characteristics. We’ll do this by summarizing how the data behaves and by making pictures that show us any important trends. This first look helps us see how the data is organized and what’s in it, So, we can find deeper insight later. 
+## -Key Performance Indicators (KPIs)
+KPIs were added to tell us the general financial performance of the hospital. The key metric:
+- Total Revenue: The hospital made NGN 2,353,478,193.32 in the course of two years and one month (2022)
+- Total Transaction: The hospital amd an pproximately 749,080 transactionsn the course of two years and one month (2022)
+
+
