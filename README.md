@@ -60,4 +60,4 @@ Data was extracted from the Hospital database using SQL. It was then loaded into
 - Tools Used: SQL was used for data extraction, while Excel was used for visualization.
   
 # Data Used
--<a hrf="https://github.com/thekelvini/Financial-Performance/blob/main/2024_finance.xlsx">Dataset</a>
+-<a href="https://github.com/thekelvini/Financial-Performance/blob/main/2024_finance.xlsx">Dataset</a>
