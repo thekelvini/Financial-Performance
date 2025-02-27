@@ -41,6 +41,8 @@ Below are the Key Result Areas (KRA) the Board will focus on. This dashboard cle
 - Are there departments where cost-cutting measures could be implemented without significantly impacting revenue?
 - How can the organization optimize its operations to improve financial outcomes?
 
+  <a hrf="https://github.com/thekelvini/Financial-Performance/blob/main/2024_finance.xlsx">Dataset</a>
+
 # DATA COLLECTION
 Data was extracted from the Hospital database using SQL. It was then loaded into Excel, and data cleaning and transformation were done to prepare it for exploratory analysis. 
 - Dataset Name: Bliss Shopping Mall Dataset
