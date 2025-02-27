@@ -65,9 +65,32 @@ Data was extracted from the Hospital database using SQL. It was then loaded into
 # 9.	DATA ANALYSIS 
 ## - Exploratory Data Analysis (EDA)
 Before we start digging into all the details, it’s crucial to do exploratory data analysis (EDA) on the Bliss Shopping Mall dataset. EDA means we’ll take a good look at the data to understand its main characteristics. We’ll do this by summarizing how the data behaves and by making pictures that show us any important trends. This first look helps us see how the data is organized and what’s in it, So, we can find deeper insight later. 
+
+# 10 Dashboard Summary
+![Screenshot 2025-02-27 164701](https://github.com/user-attachments/assets/ec6f83f2-031a-4dba-8622-057a85a27884)
+
 ## -Key Performance Indicators (KPIs)
 KPIs were added to tell us the general financial performance of the hospital. The key metric:
 - Total Revenue: The hospital made NGN 2,353,478,193.32 in the course of two years and one month (2022)
 - Total Transaction: The hospital amd an pproximately 749,080 transactionsn the course of two years and one month (2022)
+
+# Key Insights
+- Revenue Growth
+There is a significant increase in revenue from 2022 to 2024. Revenue grew by approximately 7871% from 2022 to 2023 and further increased by 46% from 2023 to 2024.
+- Departmental Contribution
+The laboratory department is the top revenue generator, contributing NGN 449,038,622.60, followed by the pharmacy department, NGN 404,066,850.65, followed by the Surgery and Admission. 
+- Transaction Trends
+The number of transactions surged dramatically in 2023 (340,673) compared to 2022 (4,295), and then again in 2024 (404,112). This indicates increasing customer engagement or service utilization over time.
+- Low Performing Departments:
+Departments like HMO (NGN 21,000.00), Obstetrics (NGN 1,927,470.00), and Disease Control (NGN 75,000) show relatively low revenue generation. This could be due to various factors such as fewer services offered, lower service prices, or lower demand.
+
+# Conclusion
+The overall financial performance of the organization is strong, with significant revenue growth and increased transactions over the years. The Pharmacy, Surgery, and Admission departments are key revenue drivers. However, some departments need closer examination to understand their lower performance.
+
+# Recommendations
+- Invest in High-Performing Departments: Allocate more resources to the Laboratory, Pharmacy, Surgery, and Admission departments to further enhance their performance. Consider expanding their services or improving their facilities to attract more customers.
+- Evaluate Low-Performing Departments: Investigate the reasons behind the low performance of departments like HMO, Obstetrics, and Infectious Disease. Consider whether these departments need additional support, marketing efforts, or changes in their service offerings.
+- Optimize Operations: Review the operational processes across all departments to identify areas for improvement. Streamlining operations can help increase efficiency and reduce costs.
+- Monitor Trends and Adjust Strategies: Continuously monitor the revenue and transaction trends to identify any emerging patterns or issues. Be ready to adjust strategies based on these insights to ensure sustained growth and performance.
 
 
