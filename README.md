@@ -1,10 +1,10 @@
 # Financial-Performance
 # 1.	PROJECT OVERVIEW
 
-Shopping malls serve as central hubs for retail and entertainment, attracting diverse customers with varying purchasing behaviors, preferences, and spending habits. In an increasingly data-driven business landscape, malls must leverage analytical tools to optimize customer experience, improve revenue streams, and enhance overall operational efficiency.
-Project Name: Customer Analysis for Bliss Shopping Mall
-Project Description: Comprehensive customer analysis: revenue, demographics, payment preferences, and mall traffic insights via interactive Excel dashboard for data-driven decision-making. 
-By analyzing this data, I will help Bliss Shopping Mall visualize key metrics and enable strategic decisions for its board meeting. 
+The purpose of the study is to provide a comprehensive analysis of the hospital's financial performance to support data-driven decision-making. By understanding the revenue and transaction trends, the hospital can optimize its operations, enhance service delivery, and strategically allocate resources to improve overall financial outcomes.
+
+Project Description: Comprehensive revenue analysis, via interactive Excel dashboard for data-driven decision-making. 
+By analyzing this data, I will help visualize key metrics and enable strategic decisions for its board meeting. 
 ### Stakeholders: Board of Directors
 ### Project Timeline: One Week
 
