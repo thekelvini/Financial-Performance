@@ -67,7 +67,7 @@ Data was extracted from the Hospital database using SQL. It was then loaded into
 Before we start digging into all the details, it’s crucial to do exploratory data analysis (EDA) on the Bliss Shopping Mall dataset. EDA means we’ll take a good look at the data to understand its main characteristics. We’ll do this by summarizing how the data behaves and by making pictures that show us any important trends. This first look helps us see how the data is organized and what’s in it, So, we can find deeper insight later. 
 
 # 10 Dashboard Summary
-![Screenshot 2025-02-27 164701](https://github.com/user-attachments/assets/ec6f83f2-031a-4dba-8622-057a85a27884)
+![Screenshot 2025-03-01 153954](https://github.com/user-attachments/assets/cac931f5-80c8-48c2-b5b4-482a0007a42c)
 
 ## -Key Performance Indicators (KPIs)
 KPIs were added to tell us the general financial performance of the hospital. The key metric:
